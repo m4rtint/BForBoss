@@ -34,12 +34,14 @@ Material:
   m_DoubleSidedGI: 0
   m_CustomRenderQueue: 2450
   stringTagMap:
+    MotionVector: User
     RenderType: TransparentCutout
   disabledShaderPasses:
   - TransparentDepthPrepass
   - TransparentDepthPostpass
   - TransparentBackface
   - RayTracingPrepass
+  - MOTIONVECTORS
   m_LockedProperties: 
   m_SavedProperties:
     serializedVersion: 3
@@ -80,6 +82,7 @@ Material:
     - _DstBlend: 0
     - _EnableBlendModePreserveSpecularLighting: 0
     - _EnableFogOnTransparent: 1
+    - _ExcludeFromTUAndAA: 0
     - _Falloff: 50
     - _GridScale: 1
     - _OpaqueCullMode: 2
@@ -99,10 +102,10 @@ Material:
     - _StencilRefGBuffer: 10
     - _StencilRefMV: 40
     - _StencilWriteMask: 6
-    - _StencilWriteMaskDepth: 8
+    - _StencilWriteMaskDepth: 9
     - _StencilWriteMaskDistortionVec: 4
-    - _StencilWriteMaskGBuffer: 14
-    - _StencilWriteMaskMV: 40
+    - _StencilWriteMaskGBuffer: 15
+    - _StencilWriteMaskMV: 41
     - _SupportDecals: 0
     - _SurfaceType: 0
     - _TransparentBackfaceEnable: 0
