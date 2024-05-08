@@ -162,7 +162,7 @@ Material:
     - _AlphaRemapMax: 1
     - _AlphaRemapMin: 0
     - _AlphaSrcBlend: 1
-    - _Amplitude: 0.01
+    - _Amplitude: 0.02
     - _Anisotropy: 0
     - _BlendMode: 0
     - _CoatMask: 0
@@ -213,7 +213,7 @@ Material:
     - _Metallic: 0
     - _MetallicRemapMax: 1
     - _MetallicRemapMin: 0
-    - _Noise_Scale: 136.89
+    - _Noise_Scale: 33.27
     - _NormalMapSpace: 0
     - _NormalScale: 1
     - _ObjectSpaceUVMapping: 0
@@ -291,5 +291,5 @@ Material:
     - _UVDetailsMappingMask: {r: 1, g: 0, b: 0, a: 0}
     - _UVMappingMask: {r: 1, g: 0, b: 0, a: 0}
     - _UVMappingMaskEmissive: {r: 1, g: 0, b: 0, a: 0}
-    - _Wave_Velocity: {r: 1, g: 0, b: 0, a: 0}
+    - _Wave_Velocity: {r: 49.78, g: 0, b: 0, a: 0}
   m_BuildTextureStacks: []
