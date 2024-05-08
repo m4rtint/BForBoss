@@ -114,7 +114,7 @@ MonoBehaviour:
       m_Type:
         m_SerializableType: UnityEngine.AnimationCurve, UnityEngine.CoreModule, Version=0.0.0.0,
           Culture=neutral, PublicKeyToken=null
-      m_SerializableObject: '{"frames":[{"time":0.0,"value":0.0,"inTangent":0.01072104275226593,"outTangent":0.01072104275226593,"tangentMode":0,"leftTangentMode":0,"rightTangentMode":0,"broken":false},{"time":0.952117919921875,"value":0.5,"inTangent":0.03211059421300888,"outTangent":0.03211059421300888,"tangentMode":0,"leftTangentMode":0,"rightTangentMode":0,"broken":false},{"time":1.0,"value":0.0,"inTangent":-10.442319869995118,"outTangent":-10.442319869995118,"tangentMode":0,"leftTangentMode":1,"rightTangentMode":1,"broken":false}],"preWrapMode":8,"postWrapMode":8,"version":1}'
+      m_SerializableObject: '{"frames":[{"time":0.0,"value":0.0,"inTangent":0.01072104275226593,"outTangent":0.01072104275226593,"tangentMode":0,"leftTangentMode":0,"rightTangentMode":0,"broken":false},{"time":0.604278564453125,"value":0.699999988079071,"inTangent":0.03211059421300888,"outTangent":0.03211059421300888,"tangentMode":0,"leftTangentMode":0,"rightTangentMode":0,"broken":false},{"time":0.65216064453125,"value":0.0082550048828125,"inTangent":-14.446845054626465,"outTangent":-14.446845054626465,"tangentMode":0,"leftTangentMode":1,"rightTangentMode":1,"broken":false}],"preWrapMode":8,"postWrapMode":8,"version":1}'
     min: -Infinity
     max: Infinity
     enumValues: []
@@ -1329,7 +1329,7 @@ MonoBehaviour:
   m_Parent: {fileID: 114350483966674976}
   m_Children: []
   m_UIPosition: {x: 0, y: 0}
-  m_UICollapsed: 1
+  m_UICollapsed: 0
   m_UISuperCollapsed: 0
   m_InputSlots: []
   m_OutputSlots:
@@ -1390,7 +1390,7 @@ MonoBehaviour:
       m_Type:
         m_SerializableType: UnityEngine.AnimationCurve, UnityEngine.CoreModule, Version=0.0.0.0,
           Culture=neutral, PublicKeyToken=null
-      m_SerializableObject: '{"frames":[{"time":0.0,"value":0.0,"inTangent":0.01072104275226593,"outTangent":0.01072104275226593,"tangentMode":0,"leftTangentMode":0,"rightTangentMode":0,"broken":false},{"time":0.952117919921875,"value":0.5,"inTangent":0.03211059421300888,"outTangent":0.03211059421300888,"tangentMode":0,"leftTangentMode":0,"rightTangentMode":0,"broken":false},{"time":1.0,"value":0.0,"inTangent":-10.442319869995118,"outTangent":-10.442319869995118,"tangentMode":0,"leftTangentMode":1,"rightTangentMode":1,"broken":false}],"preWrapMode":8,"postWrapMode":8,"version":1}'
+      m_SerializableObject: '{"frames":[{"time":0.0,"value":0.0,"inTangent":0.01072104275226593,"outTangent":0.01072104275226593,"tangentMode":0,"leftTangentMode":0,"rightTangentMode":0,"broken":false},{"time":0.604278564453125,"value":0.699999988079071,"inTangent":0.03211059421300888,"outTangent":0.03211059421300888,"tangentMode":0,"leftTangentMode":0,"rightTangentMode":0,"broken":false},{"time":0.65216064453125,"value":0.0082550048828125,"inTangent":-14.446845054626465,"outTangent":-14.446845054626465,"tangentMode":0,"leftTangentMode":1,"rightTangentMode":1,"broken":false}],"preWrapMode":8,"postWrapMode":8,"version":1}'
     m_Space: 2147483647
   m_Property:
     name: o
