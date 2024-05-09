@@ -193,7 +193,9 @@ Material:
     - _EnergyConservingSpecularColor: 1
     - _ExcludeFromTUAndAA: 0
     - _Fade: 0.4
+    - _Fill_Progress: 0.5
     - _Frequency: 9.25
+    - _Gradient_Smoothness: 1
     - _HeightAmplitude: 0.02
     - _HeightCenter: 0.5
     - _HeightMapParametrization: 0
@@ -282,8 +284,10 @@ Material:
     - _EmissiveColorLDR: {r: 0, g: 0, b: 0, a: 1}
     - _InvPrimScale: {r: 1, g: 1, b: 0, a: 0}
     - _IridescenceThicknessRemap: {r: 0, g: 1, b: 0, a: 0}
-    - _Noise_Color_A: {r: 0, g: 10.242722, b: 16, a: 0}
-    - _Noise_Color_B: {r: 0, g: 3.443519, b: 15.999998, a: 0}
+    - _Multiply_Color_Left: {r: 8, g: 4.607574, b: 0, a: 0}
+    - _Multiply_Color_Right: {r: 1, g: 0, b: 0, a: 0}
+    - _Noise_Color_A: {r: 0.99999994, g: 0.99999994, b: 0.99999994, a: 0}
+    - _Noise_Color_B: {r: 0.3773585, g: 0.3773585, b: 0.3773585, a: 0}
     - _Noise_Velocity: {r: 44.17, g: 0, b: 0, a: 0}
     - _SpecularColor: {r: 1, g: 1, b: 1, a: 1}
     - _ThicknessRemap: {r: 0, g: 1, b: 0, a: 0}
